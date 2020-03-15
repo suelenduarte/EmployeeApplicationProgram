@@ -1,10 +1,8 @@
-<h1>EmployeeApplicationProgram </h1>
+<h1>Employee Application Program </h1>
 
-<p>This project calculates the grades from 4 tests: Lab activity, pass/fail exam, essay, and final exam.</p>
+<p>This project holds employee information from 3 professions.</p>
 
-<p>The essay test takes in consideration grammar, spelling, length, and content points.</>
-
-<p>I also give the result of average, highest, and lowest score.</p>
+<p>It shows the employee name, employee number, hired date, the hourly rate or salary, shift, and monthly or yearly bonus.</>
 
 <h3>Final Output</h3>
 
