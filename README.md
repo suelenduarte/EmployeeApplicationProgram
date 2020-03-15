@@ -2,7 +2,7 @@
 
 <p>This project holds employee information from 3 professions.</p>
 
-<p>It shows the employee name, employee number, hired date, the hourly rate or salary, shift, and monthly or yearly bonus.</>
+<p>It shows the employee name, employee number, hired date, the hourly rate or salary, shift, and monthly or yearly bonus.</p>
 
 <h3>Final Output</h3>
 
