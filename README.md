@@ -8,4 +8,4 @@
 
 <h3>Final Output</h3>
 
-<img src="https://suelenduarte.github.io/EmployeeApplicationProgram/images/employee-java.png" width = 350 height = 450> 
+<img src="https://suelenduarte.github.io/EmployeeApplicationProgram/images/employee-java.png" width = 350 height = 250> 
