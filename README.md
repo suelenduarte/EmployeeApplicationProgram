@@ -6,4 +6,4 @@
 
 <h3>Final Output</h3>
 
-<img src="https://suelenduarte.github.io/EmployeeApplicationProgram/images/employee-java.png" width = 350 height = 250> 
+<img src="https://suelenduarte.github.io/EmployeeApplicationProgram/images/employee-java.png" width = 350 height = 250> <img src="https://suelenduarte.github.io/EmployeeApplicationProgram/images/employee2-java.png" width = 350 height = 250> <img src="https://suelenduarte.github.io/EmployeeApplicationProgram/images/employee3-java.png" width = 350 height = 250> 
